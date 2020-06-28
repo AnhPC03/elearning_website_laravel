@@ -1,0 +1,22 @@
+body {
+	background: rgb(255,255,255);
+	background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(212,248,255,1) 0%, rgba(133,234,255,1) 100%);
+}
+
+h4 {
+	text-align: center;
+	padding-bottom: 10px;
+}
+.container {
+	background: #fff;
+}
+
+.title {
+	background: rgb(255,255,255);
+	background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(241,232,225,1) 0%, rgba(226,209,195,1) 100%);
+}
+
+.row {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
