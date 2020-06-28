@@ -9,4 +9,5 @@
 
 ## About Project
 
-Project was crreated by Team 1. And project used Laravel framework to build.
+Project was created by Anh Nguyen. And project used Laravel framework to build.<br/>
+Copyright by Anh Nguyen
